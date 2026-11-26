@@ -10,8 +10,8 @@ SPDX-License-Identifier: MIT
 import os
 
 FORTUNE = (
-    "One day your code will be legacy, your comments will be "
-    "scripture, and your TODO will be someone else's problem."
+    "One day your code becomes legacy, your comments become "
+    "scripture, and your TODO becomes someone else's problem."
 )
 
 MAX_CHARS = 120
